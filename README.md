@@ -14,3 +14,7 @@ Project-3: Typography
 Project-4: Accessibility-Quiz
 <img src="./08-Accessibility-Quiz/01.png" alt="img">
 <img src="./08-Accessibility-Quiz/02.png" alt="img">
+
+Project-5: Tribute-Page
+<img src="./09-Tribute-Page/01.png" alt="img">
+<img src="./09-Tribute-Page/02.png" alt="img">
